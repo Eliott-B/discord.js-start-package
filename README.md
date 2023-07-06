@@ -18,12 +18,16 @@ This is a simple package to start a discord.js bot.
 - [Discord.js Utils Commands](https://github.com/Eliott-B/discord.js-utils-commands)
 - [Discord.js Admin Commands](https://github.com/Eliott-B/discord.js-admin-commands)
 
+### SYSTEM REPOSITORIES
+- [Discord.js Ticket](https://github.com/Eliott-B/discord.js-ticket)
+
 ## INSTALLATION
 
 1. Download the repository `Discord.js Base` and follow the instructions in the README.md
 2. Download the repository `Discord.js Utils Commands` and follow the instructions in the README.md [OPTIONAL]
 3. Download the repository `Discord.js Modules` and follow the instructions in the README.md [OPTIONAL]
 4. Download the repository `Discord.js Admin Commands` and follow the instructions in the README.md [OPTIONAL]
+4. Download the repository `Discord.js Ticket` and follow the instructions in the README.md [OPTIONAL]
 
 ## CONTRIBUTORS
 
